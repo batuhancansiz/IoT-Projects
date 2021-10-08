@@ -1,5 +1,5 @@
 # IoT-Projects
-
+# Explanations about the projects are on the top lines in the src/main.cpp file where the main codes are written.
 ```diff
 - Explanations about the projects are on the top lines in the src/main.cpp file where the main codes are written.
 
